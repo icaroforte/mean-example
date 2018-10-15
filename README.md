@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://cdn-images-1.medium.com/max/1037/1*kkXbE9GlS73U7x1iXHP_vQ.png">
 <br>
-<h2> Mean-Example </h2>
+<h2 align="center"> Mean-Example </h2>
 </p>
 
 
