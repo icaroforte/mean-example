@@ -1,5 +1,5 @@
 <p align="center">
-![Image of MEAN Stack](https://cdn-images-1.medium.com/max/1037/1*kkXbE9GlS73U7x1iXHP_vQ.png)
+<img src="https://cdn-images-1.medium.com/max/1037/1*kkXbE9GlS73U7x1iXHP_vQ.png">
 # Mean-Example
 </p>
 
