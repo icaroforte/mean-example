@@ -1,5 +1,7 @@
-<center>![Image of MEAN Stack](https://cdn-images-1.medium.com/max/1037/1*kkXbE9GlS73U7x1iXHP_vQ.png)
-# Mean-Example </center>
+<p align="center">
+![Image of MEAN Stack](https://cdn-images-1.medium.com/max/1037/1*kkXbE9GlS73U7x1iXHP_vQ.png)
+# Mean-Example
+</p>
 
 
 ### Simples projeto MEAN Stack
@@ -25,3 +27,5 @@ Esta aplicação foi feita seguindo o tutorial do livro:
 * Aplicações web real-time com Node.js - Caio Ribeiro Pereira - Casa do Código
 
 ### License
+
+MIT License
