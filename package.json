@@ -1,15 +1,16 @@
 {
-    "name": "mean-example",
-    "version": "1.0.0",
-    "description": "",
-    "main": "app.js",
-    "dependencies": {
-    },
-    "devDependencies": {},
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [],
-    "author": "Ícaro Forte",
-    "license": "ISC"
+  "name": "mean-example",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "ejs": "~2.5.7",
+    "express": "~4.16.0",
+    "express-load": "^1.1.16",
+    "express-session": "^1.15.6",
+    "http-errors": "~1.6.2"
+  }
 }
